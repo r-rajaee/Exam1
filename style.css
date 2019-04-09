@@ -1,0 +1,41 @@
+body{
+    direction: rtl;
+}
+
+#wrapper{
+  width: 960px;
+    background-color: lightgray;
+    height: 1000px;
+    margin: 0 auto;
+    overflow: auto;
+}
+#header{
+    height: 200px;
+	background-color:#AEFE31;
+     margin: 5px;
+}
+
+nav{
+    height: 40px;
+    background-color: blue;
+}
+
+aside{
+    background-color: #7F0000
+}
+
+main{
+    background-color: #FF7E50;
+}
+
+footer{
+    background-color: black;
+    
+}
+
+#logo{
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    margin: 5px;
+}
